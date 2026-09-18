@@ -1,5 +1,7 @@
 # file-tidy
 
+[![tests](https://github.com/RahmaanQuresh/file-tidy/actions/workflows/tests.yml/badge.svg)](https://github.com/RahmaanQuresh/file-tidy/actions/workflows/tests.yml)
+
 Organize a messy folder in one command.
 
 `file-tidy` moves loose files into clean category subfolders — **Images, Documents, Videos, Music, Archives, Programs, Code** — so your Downloads folder stops being a junk drawer. It is a single Python file with **zero dependencies**: if Python runs on your computer, this works.
